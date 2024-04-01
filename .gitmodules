@@ -1,0 +1,4 @@
+[submodule "cocos_basic_scripts"]
+	path = cocos_basic/assets/scripts/basic
+	url = https://github.com/terryWongGame/cocos_basic_scripts.git
+	branch = master
